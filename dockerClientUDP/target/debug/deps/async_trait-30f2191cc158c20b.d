@@ -1,0 +1,10 @@
+/home/alanbc/Documentos/sistemas_distribuidos/practica_cliente_servidor_rust/envio_semana_9/dockerTest01/dockerTest/dockerClientUDP/target/debug/deps/libasync_trait-30f2191cc158c20b.so: /home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.58/src/lib.rs /home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.58/src/args.rs /home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.58/src/expand.rs /home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.58/src/lifetime.rs /home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.58/src/parse.rs /home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.58/src/receiver.rs
+
+/home/alanbc/Documentos/sistemas_distribuidos/practica_cliente_servidor_rust/envio_semana_9/dockerTest01/dockerTest/dockerClientUDP/target/debug/deps/async_trait-30f2191cc158c20b.d: /home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.58/src/lib.rs /home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.58/src/args.rs /home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.58/src/expand.rs /home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.58/src/lifetime.rs /home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.58/src/parse.rs /home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.58/src/receiver.rs
+
+/home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.58/src/lib.rs:
+/home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.58/src/args.rs:
+/home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.58/src/expand.rs:
+/home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.58/src/lifetime.rs:
+/home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.58/src/parse.rs:
+/home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.58/src/receiver.rs:

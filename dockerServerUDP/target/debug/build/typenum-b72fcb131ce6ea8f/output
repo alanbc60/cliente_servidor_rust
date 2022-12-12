@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/alanbc/Documentos/sistemas_distribuidos/practica_cliente_servidor_rust/envio_semana_9/dockerTest01/dockerTest/dockerServerUDP/target/debug/build/typenum-b72fcb131ce6ea8f/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/alanbc/Documentos/sistemas_distribuidos/practica_cliente_servidor_rust/envio_semana_9/dockerTest01/dockerTest/dockerServerUDP/target/debug/build/typenum-b72fcb131ce6ea8f/out/op.rs

@@ -1,0 +1,11 @@
+/home/alanbc/Documentos/sistemas_distribuidos/practica_cliente_servidor_rust/envio_semana_9/dockerTest01/dockerTest/dockerClientUDP/target/debug/deps/phf-f8642919d26d67c0.rmeta: /home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/phf-0.11.1/src/lib.rs /home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/phf-0.11.1/src/map.rs /home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/phf-0.11.1/src/ordered_map.rs /home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/phf-0.11.1/src/ordered_set.rs /home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/phf-0.11.1/src/set.rs
+
+/home/alanbc/Documentos/sistemas_distribuidos/practica_cliente_servidor_rust/envio_semana_9/dockerTest01/dockerTest/dockerClientUDP/target/debug/deps/libphf-f8642919d26d67c0.rlib: /home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/phf-0.11.1/src/lib.rs /home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/phf-0.11.1/src/map.rs /home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/phf-0.11.1/src/ordered_map.rs /home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/phf-0.11.1/src/ordered_set.rs /home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/phf-0.11.1/src/set.rs
+
+/home/alanbc/Documentos/sistemas_distribuidos/practica_cliente_servidor_rust/envio_semana_9/dockerTest01/dockerTest/dockerClientUDP/target/debug/deps/phf-f8642919d26d67c0.d: /home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/phf-0.11.1/src/lib.rs /home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/phf-0.11.1/src/map.rs /home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/phf-0.11.1/src/ordered_map.rs /home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/phf-0.11.1/src/ordered_set.rs /home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/phf-0.11.1/src/set.rs
+
+/home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/phf-0.11.1/src/lib.rs:
+/home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/phf-0.11.1/src/map.rs:
+/home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/phf-0.11.1/src/ordered_map.rs:
+/home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/phf-0.11.1/src/ordered_set.rs:
+/home/alanbc/.cargo/registry/src/github.com-1ecc6299db9ec823/phf-0.11.1/src/set.rs:

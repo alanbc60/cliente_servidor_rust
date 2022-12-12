@@ -1,0 +1,12 @@
+/home/uriel/Descargas/dockerTest/dockerClientUDP/target/debug/deps/digest-52243fde7ed42e03.rmeta: /home/uriel/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/lib.rs /home/uriel/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/core_api.rs /home/uriel/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/core_api/ct_variable.rs /home/uriel/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/core_api/rt_variable.rs /home/uriel/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/core_api/wrapper.rs /home/uriel/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/core_api/xof_reader.rs /home/uriel/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/digest.rs /home/uriel/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/mac.rs
+
+/home/uriel/Descargas/dockerTest/dockerClientUDP/target/debug/deps/digest-52243fde7ed42e03.d: /home/uriel/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/lib.rs /home/uriel/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/core_api.rs /home/uriel/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/core_api/ct_variable.rs /home/uriel/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/core_api/rt_variable.rs /home/uriel/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/core_api/wrapper.rs /home/uriel/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/core_api/xof_reader.rs /home/uriel/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/digest.rs /home/uriel/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/mac.rs
+
+/home/uriel/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/lib.rs:
+/home/uriel/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/core_api.rs:
+/home/uriel/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/core_api/ct_variable.rs:
+/home/uriel/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/core_api/rt_variable.rs:
+/home/uriel/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/core_api/wrapper.rs:
+/home/uriel/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/core_api/xof_reader.rs:
+/home/uriel/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/digest.rs:
+/home/uriel/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/mac.rs:
